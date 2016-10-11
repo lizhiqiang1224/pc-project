@@ -1,0 +1,23 @@
+[
+  {
+    "banner":[
+      {"imgSrc":"images/banner_01.jpeg","desc":"这是测试图片"},
+      {"imgSrc":"images/banner_02.jpeg","desc":"这是测试图片"},
+      {"imgSrc":"images/banner_03.jpeg","desc":"这是测试图片"},
+      {"imgSrc":"images/banner_04.jpeg","desc":"这是测试图片"},
+      {"imgSrc":"images/banner_05.jpeg","desc":"这是测试图片"}
+    ]
+  },
+  {
+    "teamInfo":[
+      {"imgSrc":"images/banner_01.jpeg","desc":"这是测试图片"},
+      {"imgSrc":"images/banner_02.jpeg","desc":"这是测试图片"},
+      {"imgSrc":"images/banner_03.jpeg","desc":"这是测试图片"},
+      {"imgSrc":"images/banner_04.jpeg","desc":"这是测试图片"},
+      {"imgSrc":"images/banner_05.jpeg","desc":"这是测试图片"}
+    ]
+  }
+]
+
+
+
